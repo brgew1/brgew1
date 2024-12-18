@@ -1,4 +1,4 @@
-# Hi, I'm Aysen Morry 👋  
+# Aysen Morry 
 **Junior Developer | C/C++ & ASM Enthusiast | Luxemburg**
 
 I'm a passionate developer with a focus on low-level programming in **ASM**, **C**, and **C++**. Currently exploring new ways to optimize systems and build high-performance applications. On my journey to expand my skills in **Embedded Systems**, **Systems Programming**, and **Performance Optimization**.
